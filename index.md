@@ -2,14 +2,14 @@
  * @Author: XiaoxiaoMa-MQ xiaoxiao.ma2@hdr.mq.edu.au
  * @Date: 2022-05-30 23:18:09
  * @LastEditors: XiaoxiaoMa-MQ xiaoxiao.ma2@hdr.mq.edu.au
- * @LastEditTime: 2022-05-30 23:49:44
+ * @LastEditTime: 2022-05-30 23:56:41
  * @FilePath: /XiaoxiaoMa-MQ.github.io/index.md
 -->
 
 ## Xiaoxiao Ma
 ### Ph.D. Candidate at Macquarie University
 
-School of Computing
+School of Computing 
 
 Macquarie University
 
