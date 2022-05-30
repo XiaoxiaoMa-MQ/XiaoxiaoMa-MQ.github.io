@@ -15,7 +15,7 @@ Macquarie University
 
 Email: xiaoxiao.ma2@hdr.mq.edu.au or xiaoxiao.ma2@students.mq.edu.au
 
-I am a 1nd-year Ph.D. student at the School of Computing, Macquarie University. My pricipal supervisor is Prof. [Jian Yang](http://web.science.mq.edu.au/~jian/) and my associate supervisor is Dr. [Jia Wu](http://web.science.mq.edu.au/~jiawu/). My research mainly focus on deep learning, graph mining and anomaly detection. I got my Master of information technology degree from the University of Melbourne and Master of research degree from Macquarie University.
+I am a 1st year Ph.D. student at the School of Computing, Macquarie University. My pricipal supervisor is Prof. [Jian Yang](http://web.science.mq.edu.au/~jian/) and my associate supervisor is Dr. [Jia Wu](http://web.science.mq.edu.au/~jiawu/). My research mainly focus on deep learning, graph mining and anomaly detection. I got my Master of information technology degree from the University of Melbourne and Master of research degree from Macquarie University.
 
 ## <font color=blue> My Publications</font>
 [1] **Xiaoxiao Ma**, Jia Wu, Shan Xue, Jian Yang, Chuan Zhou, Quan Z. Sheng, Hui Xiong, Leman Akoglu, “A Comprehensive Survey on Graph Anomaly Detection with Deep Learning”, IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2021. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9565320)   [[REPOSITORY]](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection)<cr>
