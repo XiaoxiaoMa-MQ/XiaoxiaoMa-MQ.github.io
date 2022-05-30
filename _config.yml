@@ -1,1 +1,11 @@
 theme: jekyll-theme-minimal
+
+gem "github-pages", group: :jekyll_plugins
+
+title: Xiaoxiao Ma's Homepage
+
+description: Welcome to My personal homepage!
+
+logo: xiaoxiao.png
+
+show_downloads: false
