@@ -1,8 +1,18 @@
-## Welcome to GitHub Pages
+<!--
+ * @Author: XiaoxiaoMa-MQ xiaoxiao.ma2@hdr.mq.edu.au
+ * @Date: 2022-05-30 23:18:09
+ * @LastEditors: XiaoxiaoMa-MQ xiaoxiao.ma2@hdr.mq.edu.au
+ * @LastEditTime: 2022-05-30 23:23:26
+ * @FilePath: /XiaoxiaoMa-MQ.github.io/index.md
+-->
 
-You can use the [editor on GitHub](https://github.com/XiaoxiaoMa-MQ/XiaoxiaoMa-MQ.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Xiaoxiao Ma
+### Ph.D. Candidate at Macquarie University
+School of Computing
+Macquarie University
+Email: xiaoxiao.ma2@hdr.mq.edu.au xiaoxiao.ma2@students.mq.edu.au
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a 1nd-year Ph.D. student at the School of Computing, Macquarie University. My pricipal supervisor is Prof. Jian Yang and my associate supervisor is Dr. Jia Wu. My research mainly focus on deep learning, graph mining and anomaly detection. I got my Master of information technology degree from the University of Melbourne and Master of research degree from Macquarie University (Awarded with the Executive Dean's Commendation for Academic Excellence in Year 2 Master of Research).
 
 ### Markdown
 
