@@ -2,7 +2,7 @@
  * @Author: XiaoxiaoMa-MQ xiaoxiao.ma2@hdr.mq.edu.au
  * @Date: 2022-05-30 23:18:09
  * @LastEditors: Xiaoxiao Ma
- * @LastEditTime: 2022-06-01 13:17:09
+ * @LastEditTime: 2022-06-01 13:19:52
  * @FilePath: /XiaoxiaoMa-MQ.github.io/index.md
 -->
 
@@ -31,8 +31,8 @@ I am a 1st year Ph.D. student at the School of Computing, Macquarie University. 
 
 | Year | Company/Organization | Role | 
 | ----- | ---------------- | ------------- |
-| 2018.10 - 2019.11 | Data center of Ningxia Gov | Senior Staff member |
-| 2015.5 - 2018.10 | Information data management center of HRSS, Ningxia | Senior Staff member |
+| 2018.10 - 2019.11 |The Center for Data Science Ningxia | Senior Staff member |
+| 2015.5 - 2018.10 | Information and Data Management center of Ningxia | Senior Staff member |
 | 2010.7 - 2013.9 | Ericsson (China) Communications Co.Ltd. | Integration Engineer |
 
 
