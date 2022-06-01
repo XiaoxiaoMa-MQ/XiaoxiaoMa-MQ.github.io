@@ -2,7 +2,7 @@
  * @Author: XiaoxiaoMa-MQ xiaoxiao.ma2@hdr.mq.edu.au
  * @Date: 2022-05-30 23:18:09
  * @LastEditors: Xiaoxiao Ma
- * @LastEditTime: 2022-06-01 12:17:45
+ * @LastEditTime: 2022-06-01 12:18:53
  * @FilePath: /XiaoxiaoMa-MQ.github.io/index.md
 -->
 
@@ -36,7 +36,7 @@ I am a 1st year Ph.D. student at the School of Computing, Macquarie University. 
 
 
 ## <font color=red> My Publications</font>
-[1] **Xiaoxiao Ma**, Jia Wu, Shan Xue, Jian Yang, Chuan Zhou, Quan Z. Sheng, Hui Xiong, Leman Akoglu, “A Comprehensive Survey on Graph Anomaly Detection with Deep Learning”, IEEE Transactions on Knowledge and Data Engineering (**TKDE**, CORE ranked $A^*$, CCF $A$, Web of science impact factor: 4.935, Google H-index: 174), 2021. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9565320)   [[REPOSITORY]](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection)<cr>
+[1] **Xiaoxiao Ma**, Jia Wu, Shan Xue, Jian Yang, Chuan Zhou, Quan Z. Sheng, Hui Xiong, Leman Akoglu, “A Comprehensive Survey on Graph Anomaly Detection with Deep Learning”, IEEE Transactions on Knowledge and Data Engineering (**TKDE**, CORE ranked A*, CCF A, Web of science impact factor: 4.935, Google H-index: 174), 2021. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9565320)   [[REPOSITORY]](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection)<cr>
 
 [![timeline](Timeline.png)](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection/)
 
