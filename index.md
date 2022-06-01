@@ -2,7 +2,7 @@
  * @Author: XiaoxiaoMa-MQ xiaoxiao.ma2@hdr.mq.edu.au
  * @Date: 2022-05-30 23:18:09
  * @LastEditors: Xiaoxiao Ma
- * @LastEditTime: 2022-06-01 11:59:07
+ * @LastEditTime: 2022-06-01 12:00:32
  * @FilePath: /XiaoxiaoMa-MQ.github.io/index.md
 -->
 
@@ -50,6 +50,7 @@ I am a 1st year Ph.D. student at the School of Computing, Macquarie University. 
  * Awesome Deep Graph Anomaly Detection [[Github]](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection)
 
 ## <font color=red>Awards</font>
+
 | Year | Award | Organized by |
 | ----- | ---------------- | ------------- |
 | 2007| Bronze Medal in The Tianjin Metropolitan Collegiate Programming Contest | ACM |
