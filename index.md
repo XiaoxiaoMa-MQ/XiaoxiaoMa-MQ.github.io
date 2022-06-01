@@ -61,7 +61,7 @@ I am a 1st year Ph.D. student at the School of Computing, Macquarie University. 
 | 2018 | The Third (Silver Medal) in the 2nd Network Hacking Competition |  Ningxia |
 | 2017 | Award of Encouragement in the 1st Network Hacking competition |  Ningxia |
 | 2016 | Information Technology Project Management Professional | P.R.C. |
-| 2016 | Annual Best Staff | HRSS Ningxia |
+| 2016 | Annual Best Staff | Ningxia |
 | 2015 | Network Engineer Certification | P.R.C. |
 | 2007| Bronze Medal in The Tianjin Metropolitan Collegiate Programming Contest | ACM |
 
