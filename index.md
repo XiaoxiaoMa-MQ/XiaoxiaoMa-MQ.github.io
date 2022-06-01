@@ -38,7 +38,6 @@ I am a 1st year Ph.D. student at the School of Computing, Macquarie University. 
 ## <font color=red> My Publications</font>
 [1] **Xiaoxiao Ma**, Jia Wu, Shan Xue, Jian Yang, Chuan Zhou, Quan Z. Sheng, Hui Xiong, Leman Akoglu, “A Comprehensive Survey on Graph Anomaly Detection with Deep Learning”, IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2021. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9565320)   [[REPOSITORY]](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection)<cr>
 
-<<<<<<< HEAD
 [![timeline](Timeline.png)](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection/)
 
 [2] **Xiaoxiao Ma**, Jia Wu, Shan Xue, Jian Yang, Chuan Zhou, Quan Z. Sheng, Hui Xiong, Leman Akoglu, “Deep Multi-Attributed-View Graph Representation Learning”, IEEE Transactions on Network Science and EngineeringEngineering (**TNSE**), 2022. [[PDF]](https://ieeexplore.ieee.org/document/9782548)   [[CODE]](https://github.com/MagCAE/magcae) <cr>
@@ -75,15 +74,9 @@ I am a 1st year Ph.D. student at the School of Computing, Macquarie University. 
      - Journal of Information Science
      - Neural Nerworks
  * Conference Reviewer
-<<<<<<< HEAD
      - The IEEE International Conference on Data Mining (ICDM) 2021
      - The ACM Conference on Web Search and Data Mining (WSDM) 2021
      - The Conference on Information and Knowledge Management (CIKM) 2021
      - The IEEE International Conference on Big Knowledge (ICBK) 2021
      - International Joint Conference on Neural Networks (IJCNN) 2021, 2022
      - The ACM SIGKDD conference on Knowledge Discovery and Data Mining (KDD) 2021
-=======
-     - ICDM 2021
-     - WSDM 2021
-  
->>>>>>> 023b47e472ca1594a7570ef88f075e4580797278
