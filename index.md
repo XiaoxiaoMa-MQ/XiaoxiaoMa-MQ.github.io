@@ -2,7 +2,7 @@
  * @Author: XiaoxiaoMa-MQ xiaoxiao.ma2@hdr.mq.edu.au
  * @Date: 2022-05-30 23:18:09
  * @LastEditors: Xiaoxiao Ma
- * @LastEditTime: 2022-06-01 12:10:45
+ * @LastEditTime: 2022-06-01 12:17:45
  * @FilePath: /XiaoxiaoMa-MQ.github.io/index.md
 -->
 
@@ -55,7 +55,6 @@ I am a 1st year Ph.D. student at the School of Computing, Macquarie University. 
 | ----- | ---------------- | ------------- |
 | 2007| Bronze Medal in The Tianjin Metropolitan Collegiate Programming Contest | ACM |
 | 2015 | Network Engineer Certification | P.R.C. |
-| 2016 | Information Technology Project Management Professional | P.R.C. |
 | 2016 | Information Technology Project Management Professional | P.R.C. |
 | 2016 | Annual Best Staff | HRSS Ningxia |
 | 2017 | Award of Encouragement in the 1st Network Hacking competition |  Ningxia |
