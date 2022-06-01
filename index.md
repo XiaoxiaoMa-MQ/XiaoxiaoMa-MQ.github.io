@@ -2,15 +2,21 @@
  * @Author: XiaoxiaoMa-MQ xiaoxiao.ma2@hdr.mq.edu.au
  * @Date: 2022-05-30 23:18:09
  * @LastEditors: Xiaoxiao Ma
- * @LastEditTime: 2022-06-01 11:42:19
+<<<<<<< HEAD
+ * @LastEditTime: 2022-06-01 11:44:10
+=======
+ * @LastEditTime: 2022-06-01 11:36:34
+>>>>>>> 5ef608a42f16e9bacf74dc310a73f9505216b8f8
  * @FilePath: /XiaoxiaoMa-MQ.github.io/index.md
 -->
 
 ## Xiaoxiao Ma
 ### Ph.D. Candidate at Macquarie University
 
-School of Computing 
+School of Computing
+
 Macquarie University
+
 Email: xiaoxiao.ma2@hdr.mq.edu.au or xiaoxiao.ma2@students.mq.edu.au
 
 I am a 1st year Ph.D. student at the School of Computing, Macquarie University. My pricipal supervisor is Prof. [Jian Yang](http://web.science.mq.edu.au/~jian/) and my associate supervisor is Dr. [Jia Wu](http://web.science.mq.edu.au/~jiawu/). My research mainly focus on deep learning, graph mining and anomaly detection. I got my Master of information technology degree from the University of Melbourne and Master of research degree from Macquarie University.
@@ -39,6 +45,12 @@ I am a 1st year Ph.D. student at the School of Computing, Macquarie University. 
 [![timeline](Timeline.png)](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection/)
 
 [2] **Xiaoxiao Ma**, Jia Wu, Shan Xue, Jian Yang, Chuan Zhou, Quan Z. Sheng, Hui Xiong, Leman Akoglu, “Deep Multi-Attributed-View Graph Representation Learning”, IEEE Transactions on Network Science and EngineeringEngineering (**TNSE**), 2022. [[PDF]](https://ieeexplore.ieee.org/document/9782548)   [[CODE]](https://github.com/MagCAE/magcae) <cr>
+<<<<<<< HEAD
+=======
+=======
+[2] **Xiaoxiao Ma**, Shan Xue, Jia Wu, Jian Yang, Cecile Paris, Surya Nepal, Quan Z. Sheng, “Deep Multi-Attributed-View Graph Representation Learning”, IEEE Transactions on Network Science and EngineeringEngineering (**TNSE**), 2022. [[PDF]](https://ieeexplore.ieee.org/document/9782548)   [[CODE]](https://github.com/MagCAE/magcae) <cr>
+>>>>>>> 023b47e472ca1594a7570ef88f075e4580797278
+>>>>>>> 5ef608a42f16e9bacf74dc310a73f9505216b8f8
 
 [![Framework](multiview-framework.png)](https://github.com/MagCAE/magcae)
 
@@ -74,4 +86,8 @@ I am a 1st year Ph.D. student at the School of Computing, Macquarie University. 
      - The Conference on Information and Knowledge Management (CIKM) 2021
      - The IEEE International Conference on Big Knowledge (ICBK) 2021
      - International Joint Conference on Neural Networks (IJCNN) 2021, 2022
+<<<<<<< HEAD
      - The ACM SIGKDD conference on Knowledge Discovery and Data Mining (KDD) 2021
+=======
+     - The ACM SIGKDD conference on Knowledge Discovery and Data Mining (KDD) 2021
+>>>>>>> 5ef608a42f16e9bacf74dc310a73f9505216b8f8
