@@ -2,7 +2,7 @@
  * @Author: XiaoxiaoMa-MQ xiaoxiao.ma2@hdr.mq.edu.au
  * @Date: 2022-05-30 23:18:09
  * @LastEditors: Xiaoxiao Ma
- * @LastEditTime: 2022-06-01 11:36:34
+ * @LastEditTime: 2022-06-01 11:42:19
  * @FilePath: /XiaoxiaoMa-MQ.github.io/index.md
 -->
 
@@ -13,7 +13,7 @@ School of Computing
 Macquarie University
 Email: xiaoxiao.ma2@hdr.mq.edu.au or xiaoxiao.ma2@students.mq.edu.au
 
-I am a 1nd-year Ph.D. student at the School of Computing, Macquarie University. My pricipal supervisor is Prof. [Jian Yang](http://web.science.mq.edu.au/~jian/) and my associate supervisor is Dr. [Jia Wu](http://web.science.mq.edu.au/~jiawu/). My research mainly focus on deep learning, graph mining and anomaly detection. I got my Master of information technology degree from the University of Melbourne and Master of research degree from Macquarie University.
+I am a 1st year Ph.D. student at the School of Computing, Macquarie University. My pricipal supervisor is Prof. [Jian Yang](http://web.science.mq.edu.au/~jian/) and my associate supervisor is Dr. [Jia Wu](http://web.science.mq.edu.au/~jiawu/). My research mainly focus on deep learning, graph mining and anomaly detection. I got my Master of information technology degree from the University of Melbourne and Master of research degree from Macquarie University.
 
 ## <font color=deepskyblue> Education Background</font>
 
