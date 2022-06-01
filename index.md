@@ -2,7 +2,7 @@
  * @Author: XiaoxiaoMa-MQ xiaoxiao.ma2@hdr.mq.edu.au
  * @Date: 2022-05-30 23:18:09
  * @LastEditors: Xiaoxiao Ma
- * @LastEditTime: 2022-06-01 12:18:53
+ * @LastEditTime: 2022-06-01 12:23:54
  * @FilePath: /XiaoxiaoMa-MQ.github.io/index.md
 -->
 
@@ -20,19 +20,20 @@ I am a 1st year Ph.D. student at the School of Computing, Macquarie University. 
 ## <font color=deepskyblue> Education Background</font>
 
 | Year | Degree | Major | University |
-| ----- | ------ | ------- | -------- | 
-| 2006.9 - 2010.7 | Bachelor | Software Engineering | Tianjin University |
-| 2014.3 - 2014.12 | Master | Information Technology | University of Melbourne |
-| 2020.1 - 2021.2 | Master of Research | Computing | Macquarie University |
+| ----- | ------ | ------- | -------- |
 | 2021.10 - Now | Doctor of Philosophy | Computing | Macquarie University |
+| 2020.1 - 2021.2 | Master of Research | Computing | Macquarie University |
+| 2014.3 - 2014.12 | Master | Information Technology | University of Melbourne |
+| 2006.9 - 2010.7 | Bachelor | Software Engineering | Tianjin University |
+
 
 ## <font color=steelblue> Work Experience</font>
 
 | Year | Company/Organization | Role | 
 | ----- | ---------------- | ------------- |
-| 2010.7 - 2013.9 | Ericsson (China) Communications Co.Ltd. | Integration Engineer |
-| 2015.5 - 2018.10 | Information data management center of HRSS, Ningxia | Senior Staff member |
 | 2018.10 - 2019.11 | Data center of Ningxia Gov | Senior Staff member |
+| 2015.5 - 2018.10 | Information data management center of HRSS, Ningxia | Senior Staff member |
+| 2010.7 - 2013.9 | Ericsson (China) Communications Co.Ltd. | Integration Engineer |
 
 
 ## <font color=red> My Publications</font>
@@ -53,13 +54,14 @@ I am a 1st year Ph.D. student at the School of Computing, Macquarie University. 
 
 | Year | Award | Organized by |
 | ----- | ---------------- | ------------- |
-| 2007| Bronze Medal in The Tianjin Metropolitan Collegiate Programming Contest | ACM |
-| 2015 | Network Engineer Certification | P.R.C. |
+| 2021 | Executive Dean's Commendation for Academic Excellence in Year 2 Master of Research |  Macquarie University |
+| 2018 | The Third (Silver Medal) in the 2nd Network Hacking Competition |  Ningxia |
+| 2017 | Award of Encouragement in the 1st Network Hacking competition |  Ningxia |
 | 2016 | Information Technology Project Management Professional | P.R.C. |
 | 2016 | Annual Best Staff | HRSS Ningxia |
-| 2017 | Award of Encouragement in the 1st Network Hacking competition |  Ningxia |
-| 2018 | The Third (Silver Medal) in the 2nd Network Hacking Competition |  Ningxia |
-| 2018 | Executive Dean's Commendation for Academic Excellence in Year 2 Master of Research |  Macquarie University |
+| 2015 | Network Engineer Certification | P.R.C. |
+| 2007| Bronze Medal in The Tianjin Metropolitan Collegiate Programming Contest | ACM |
+
 
 ## <font color=borwn> Research Activities </font>
  * Journal Reviewer
