@@ -2,11 +2,7 @@
  * @Author: XiaoxiaoMa-MQ xiaoxiao.ma2@hdr.mq.edu.au
  * @Date: 2022-05-30 23:18:09
  * @LastEditors: Xiaoxiao Ma
-<<<<<<< HEAD
  * @LastEditTime: 2022-06-01 11:44:10
-=======
- * @LastEditTime: 2022-06-01 11:36:34
->>>>>>> 5ef608a42f16e9bacf74dc310a73f9505216b8f8
  * @FilePath: /XiaoxiaoMa-MQ.github.io/index.md
 -->
 
