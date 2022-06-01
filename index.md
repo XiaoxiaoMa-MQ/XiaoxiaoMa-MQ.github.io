@@ -2,7 +2,7 @@
  * @Author: XiaoxiaoMa-MQ xiaoxiao.ma2@hdr.mq.edu.au
  * @Date: 2022-05-30 23:18:09
  * @LastEditors: Xiaoxiao Ma
- * @LastEditTime: 2022-06-01 12:08:37
+ * @LastEditTime: 2022-06-01 12:10:45
  * @FilePath: /XiaoxiaoMa-MQ.github.io/index.md
 -->
 
@@ -62,7 +62,7 @@ I am a 1st year Ph.D. student at the School of Computing, Macquarie University. 
 | 2018 | The Third (Silver Medal) in the 2nd Network Hacking Competition |  Ningxia |
 | 2018 | Executive Dean's Commendation for Academic Excellence in Year 2 Master of Research |  Macquarie University |
 
-## <font color=Orange> Research Activities </font>
+## <font color=borwn> Research Activities </font>
  * Journal Reviewer
      - ACM Transactions on Knowledge Discovery from Data
      - World Wide Web Journal
