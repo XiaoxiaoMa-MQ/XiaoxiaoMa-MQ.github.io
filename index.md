@@ -37,18 +37,19 @@ I am a 1st year Ph.D. student at the School of Computing, Macquarie University. 
 
 
 ## <font color=red> My Publications</font>
+[1] **Fanzhen Liu**, **Xiaoxiao Ma**, Jia Wu, Jian Yang, Shan Xue, Amin Beheshti, Chuan Zhou, Hao Peng, Quan Z. Sheng, Charu C. Aggarwal, "DAGAD: Data Augmentation for Graph Anomaly Detection", ICDM 2022, [[PDF]]([https://ieeexplore.ieee.org/document/9782548)](https://arxiv.org/pdf/2210.09766.pdf)   [[CODE]]([https://github.com/MagCAE/magcae](https://github.com/FanzhenLiu/DAGAD)) <cr>
 
-[1] **Xiaoxiao Ma**, Jia Wu, Shan Xue, Jian Yang, Chuan Zhou, Quan Z. Sheng, Hui Xiong, Leman Akoglu, “Deep Multi-Attributed-View Graph Representation Learning”, IEEE Transactions on Network Science and EngineeringEngineering (**TNSE**, JCR impact factor 5.213, Google H-index: 29), 2022. [[PDF]](https://ieeexplore.ieee.org/document/9782548)   [[CODE]](https://github.com/MagCAE/magcae) <cr>
+[2] **Xiaoxiao Ma**, Jia Wu, Shan Xue, Jian Yang, Chuan Zhou, Quan Z. Sheng, Hui Xiong, Leman Akoglu, “Deep Multi-Attributed-View Graph Representation Learning”, IEEE Transactions on Network Science and EngineeringEngineering (**TNSE**, JCR impact factor 5.213, Google H-index: 29), 2022. [[PDF]](https://ieeexplore.ieee.org/document/9782548)   [[CODE]](https://github.com/MagCAE/magcae) <cr>
 
 [![Conventional Anomaly Detection](Conventional_AD.png)](https://github.com/MagCAE/magcae)
 [![Graph Anomaly Detection](gad.png)](https://github.com/MagCAE/magcae)
 [![Framework](multiview-framework.png)](https://github.com/MagCAE/magcae)
 
-[2] **Xiaoxiao Ma**, Jia Wu, Shan Xue, Jian Yang, Chuan Zhou, Quan Z. Sheng, Hui Xiong, Leman Akoglu, “A Comprehensive Survey on Graph Anomaly Detection with Deep Learning”, IEEE Transactions on Knowledge and Data Engineering (**TKDE**, CORE ranked A*, CCF A, Web of science impact factor: 4.935, Google H-index: 174), 2021. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9565320)   [[REPOSITORY]](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection)<cr>
+[3] **Xiaoxiao Ma**, Jia Wu, Shan Xue, Jian Yang, Chuan Zhou, Quan Z. Sheng, Hui Xiong, Leman Akoglu, “A Comprehensive Survey on Graph Anomaly Detection with Deep Learning”, IEEE Transactions on Knowledge and Data Engineering (**TKDE**, CORE ranked A*, CCF A, Web of science impact factor: 4.935, Google H-index: 174), 2021. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9565320)   [[REPOSITORY]](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection)<cr>
 
 [![timeline](Timeline.png)](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection/)
 
-[3] Richard O. Sinnott, Jun Han, William Hu, **Xiaoxiao Ma**, Kuai Yu, “Application of Mobile Games to Support Clinical Data Collection for Patients with Niemann-Pick Disease”, IEEE 28th International Symposium on Computer-Based Medical Systems (**CBMS**), 2015. [[PDF]](https://ieeexplore.ieee.org/abstract/document/7167444)<cr>
+[4] Richard O. Sinnott, Jun Han, William Hu, **Xiaoxiao Ma**, Kuai Yu, “Application of Mobile Games to Support Clinical Data Collection for Patients with Niemann-Pick Disease”, IEEE 28th International Symposium on Computer-Based Medical Systems (**CBMS**), 2015. [[PDF]](https://ieeexplore.ieee.org/abstract/document/7167444)<cr>
 
 ## <font color=green>Hosted Project</font>
  * Awesome Deep Graph Anomaly Detection [[Github]](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection)
