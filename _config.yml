@@ -1,6 +1,4 @@
-theme: jekyll-theme-academic
-
-gem "github-pages", group: :jekyll_plugins
+theme: jekyll-theme-Academic
 
 title: Xiaoxiao Ma's Homepage
 
