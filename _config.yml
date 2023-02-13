@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-Academic
 
 gem "github-pages", group: :jekyll_plugins
 
