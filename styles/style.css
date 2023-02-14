@@ -179,7 +179,7 @@ body {
   font-family: 'Latin Modern', Georgia, Cambria, 'Times New Roman', Times, serif;
   line-height: 1.8;
 
-  max-width: 60rem;
+  max-width: 55%;
   min-height: 100vh;
   overflow-x: hidden;
   margin: 0 auto;
@@ -440,8 +440,8 @@ dl dd {
 
 /* Center align author name, use small caps and add vertical spacing  */
 .author {
-  font-size: xx-large;
-  margin: 0.85rem 0;
+  font-size: 2rem;
+  margin: 0.1rem 0;
   font-variant-caps: small-caps;
   text-align: left;
 }
@@ -452,21 +452,24 @@ dl dd {
   font-size: 0.8rem;
   float: right;
   clear: right;
-  width: 18vw;
-  margin-right: -20vw;
+  text-align: left;
+  width: 30%;
+  margin-right: -32%;
   margin-bottom: 1em;
 }
 
 .sidenote.left {
   float: left;
-  margin-left: -20vw;
+  text-align: left;
+  font-size: 0.8rem;
+  margin-left: -32%;
   margin-bottom: 1em;
 }
 
 /* (WIP) add border when a sidenote is clicked on */
 .sidenote:target {
   border: var(--sidenote-target-border-color) 1.5px solid;
-  padding: 0 .5rem;
+  padding: 0.5rem;
   scroll-margin-block-start: 10rem;
 }
 
@@ -672,18 +675,19 @@ h6 {
 .left_column {
   float: left;
   width: 25%;
-  height: 16rem;
+  height: 25rem
 }
 
 .main_column {
-  margin-left: 11rem;
-  width: 75%;
-  height: 16rem;
+  float: right;
+  width: 70%;
+  height: 10rem;
 }
 
 #xiaoxiao-img {
-  width: 11.5rem;
-  height: 17rem;
+  align-items: center;
+  width: 200%;
+  height: auto;
 }
 /* 180 270 */
 footer {
@@ -693,14 +697,25 @@ footer {
 }
 
 .email {
-  font-size: 13pt;
+  font-size: 1.1rem;
+  /* color: #267CB9; */
+  text-decoration:none
+}
+.email:hover {
+  color: white;
+  background-color: hsl(0, 100%, 33%);
+  text-decoration: underline
+}
+
+.githubaddr {
+  font-size: 1.1rem;
   color: #267CB9;
   text-decoration:none
 }
-.githubaddr {
-  font-size: 13pt;
-  color: #267CB9;
-  text-decoration:none
+.githubaddr:hover {
+  color: white;
+  background-color: hsl(0, 100%, 33%);
+  text-decoration: underline
 }
 
 .candidate {
@@ -712,8 +727,8 @@ footer {
 }
 
 #wordcloud {
-  width: 400px;
-  height: 180px;
+  width: 120%;
+  height: auto;
 }
 
 #introduction {
@@ -721,8 +736,8 @@ footer {
 }
 
 #selfdescription {
-  margin-top: 30px;
-  font-size: 14pt;
+  margin-top: 0.5%;
+  font-size: 1.2rem;
 }
 
 #lightbutton {
@@ -732,10 +747,33 @@ footer {
 
 #educationtable {
   padding: 1.1%;
+  font-size: 95%;
   text-align: center;
 }
 
 #projectcodearea {
   padding: 1.1%;
   text-align: center;
+}
+
+#navi {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  color: var(--link-visited);
+  /* background-color: #333; */
+}
+
+.nav {
+  float: right;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nava:hover {
+  background-color: var(--link-visited);
+  color: white;
 }
