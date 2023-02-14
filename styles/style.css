@@ -28,7 +28,7 @@
 @font-face {
   font-family: 'Latin Modern';
   font-style: normal;
-  font-weight: bold;
+  font-weight: normal;
   font-display: swap;
   src: url('./fonts/LM-bold.woff2') format('woff2'),
     url('./fonts/LM-bold.woff') format('woff'),
@@ -38,7 +38,7 @@
 @font-face {
   font-family: 'Latin Modern';
   font-style: italic;
-  font-weight: bold;
+  font-weight: normal;
   font-display: swap;
   src: url('./fonts/LM-bold-italic.woff2') format('woff2'),
     url('./fonts/LM-bold-italic.woff') format('woff'),
@@ -64,7 +64,7 @@
 @font-face {
   font-family: 'Libertinus';
   font-style: normal;
-  font-weight: bold;
+  font-weight: normal;
   font-display: swap;
   src: url('./fonts/Libertinus-bold.woff2') format('woff2');
 }
@@ -72,7 +72,7 @@
 @font-face {
   font-family: 'Libertinus';
   font-style: italic;
-  font-weight: bold;
+  font-weight: normal;
   font-display: swap;
   src: url('./fonts/Libertinus-bold-italic.woff2') format('woff2');
 }
@@ -80,7 +80,7 @@
 @font-face {
   font-family: 'Libertinus';
   font-style: normal;
-  font-weight: 600;
+  font-weight: normal;
   font-display: swap;
   src: url('./fonts/Libertinus-semibold.woff2') format('woff2');
 }
@@ -88,7 +88,7 @@
 @font-face {
   font-family: 'Libertinus';
   font-style: italic;
-  font-weight: 600;
+  font-weight: normal;
   font-display: swap;
   src: url('./fonts/Libertinus-semibold-italic.woff2') format('woff2');
 }
@@ -335,7 +335,7 @@ caption {
 
 caption::before {
   content: 'Table ' counter(caption) '. ';
-  font-weight: bold;
+  font-weight: normal;
 }
 
 /* allow scroll on the x-axis */
@@ -582,18 +582,30 @@ input.sidenote-toggle {
 .latex span:nth-child(1) {
   text-transform: uppercase;
   font-size: 0.75em;
+  font-weight: 200;
   vertical-align: 0.28em;
-  margin-left: -0.48em;
-  margin-right: -0.15em;
+  margin-left: -0.18em;
+  margin-right: -0.05em;
   line-height: 1ex;
   color:hsl(0, 100%, 33%);
 }
 
 .latex span:nth-child(2) {
   text-transform: uppercase;
+  font-weight: 200;
   vertical-align: -0.5ex;
-  margin-left: -0.1667em;
-  margin-right: -0.125em;
+  margin-left: -0.0667em;
+  margin-right: -0.025em;
+  line-height: 1ex;
+  color:hsl(0, 100%, 33%);
+}
+.latex span:nth-child(3) {
+  text-transform: uppercase;
+  font-size: 0.75em;
+  font-weight: 200;
+  vertical-align: 0.28em;
+  margin-left: -0.28em;
+  margin-right: -0.05em;
   line-height: 1ex;
   color:hsl(0, 100%, 33%);
 }
@@ -723,6 +735,7 @@ footer {
 }
 
 #topwelcome {
+  font-weight: 400;
   color:hsl(0, 100%, 33%);
 }
 
