@@ -3,11 +3,14 @@
 
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimal-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <!-- <link rel="stylesheet" href="https://latex.now.sh/style.css"> -->
-  <link rel="stylesheet" type="text/css" href="styles/style.min.css" />
+  <!-- <link rel="stylesheet" type="text/css" href="styles/style.min.css" /> -->
   <link rel="stylesheet" type="text/css" href="styles/style.css">
   <link rel="stylesheet" type="text/css" href="styles/prism.css" />
+
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
 
   <title>Xiaoxiao Ma's Page</title>
 
@@ -19,34 +22,39 @@
   <meta property="og:description"
     content="A minimal, almost class-less CSS library to write modern websites that look like LaTeX documents." />
   <meta property="og:type" content="website" />
-
 </head>
-
 <body id="top" >
   <!-- class="latex-dark" -->
   <p>
-    <label for="sn-plus" class="sidenote-toggle">⊕</label><input type="checkbox"
+    <label for="sn-plus" class="sidenote-toggle"></label><input type="checkbox"
     id="sn-plus" class="sidenote-toggle" /><span class="sidenote" style="font-size: 10pt;">
       <button id="dark-mode-toggle">Play the Light</button>
     </span>
   </p>
   <header>
     <h1 id="topwelcome"><span class="latex">W<span>e</span>l<span>c</span>om<span>e</span></h1>
+        <ul id="navi" >
+          <li class="nav"><a class="nava" href="#award">Awards</a></li>
+          <li class="nav"><a class="nava" href="#publications">Publications</a></li>
+          <li class="nav"><a class="nava" href="#educationtable">Experience</a></li>
+          <li class="nav"><a class="nava active" href="index.html">Home</a></li>
+        </ul>
     <div class="headtwocolumns">
       <div class="left_column">
         <p href="images/xiaoxiao.png"><img id="xiaoxiao-img" src="images/xiaoxiao.png" alt="Xiaoxiao Ma" />
         </p>
       </div>
-      <div class="main_column">
 
+      <div class="main_column">
         <p class="author">
           Xiaoxiao Ma <br>
-          <a class="candidate">Ph.D. Candidate at Macquarie Universty</a> <br>
-          <a class="candidate">School of Computing</a>
+          <a class="candidate">Ph.D. Candidate</a> <br>
+          <a class="candidate">School of Computing, Macquarie Universty</a>
         </p>
         <p>
-          <a class="email" href="mailto:xiaoxiao.ma2@hdr.mq.edu.au" style="" target="_blank">Email: xiaoxiao.ma2@hdr.mq.edu.au || xiaoxiao.ma2@students.mq.edu.au</a> <br>
-          <a class="githubaddr" href="https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection" style="" target="_blank">GitHubs: Awesome Deep Graph Anomaly Detection</a> <br>
+          <a class="email" href="mailto:xiaoxiao.ma2@hdr.mq.edu.au" target="_blank">Email: xiaoxiao.ma2@hdr.mq.edu.au</a> <br>
+          <a class="email" href="mailto:xiaoxiao.ma2@students.mq.edu.au" target="_blank">  OR:  xiaoxiao.ma2@students.mq.edu.au</a> <br>
+          <a class="githubaddr" href="https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection" target="_blank">GitHubs: Awesome Deep Graph Anomaly Detection</a> <br>
         </p>
       </div>
     </div>
@@ -55,7 +63,7 @@
   <div class="row">
       <div id="selfdescription">
         <p>
-          <label for="sn-plus" class="sidenote-toggle">⊕</label><input type="checkbox"
+          <label for="sn-plus" class="sidenote-toggle"></label><input type="checkbox"
           id="sn-plus" class="sidenote-toggle" /><span class="sidenote" style="font-size: 15pt;">
             My research interests:
             <img id="wordcloud" src="images/researchcloud.png" alt="Research Word Cloud" />
@@ -146,25 +154,26 @@
       </table></pre>
 
       <!-- Publications -->
+      <p id="publications"></p>
       <h2 id="class-based-elements"><font color="borwn">My Publications</font></h2>
       <p>
-        <label for="sn-plus" class="sidenote-toggle">⊕</label><input type="checkbox"
+        <label for="sn-plus" class="sidenote-toggle"></label><input type="checkbox"
         id="sn-plus" class="sidenote-toggle" /><span class="sidenote left" style="font-size: 12pt;font-weight: bold;">
-          Graph Anomaly Detection:
+          Graph Anomaly Detection [2]:
           <img id="wordcloud" src="images/Timeline.png" alt="Research Word Cloud" />
         </span>
       </p>
       <p>
-        <label for="sn-plus" class="sidenote-toggle">⊕</label><input type="checkbox"
+        <label for="sn-plus" class="sidenote-toggle"></label><input type="checkbox"
         id="sn-plus" class="sidenote-toggle" /><span class="sidenote" style="font-size: 12pt;font-weight: bold;">
-          DAGAD:
+          DAGAD [1]:
           <img id="wordcloud" src="images/DAGAD_framework.jpeg" alt="Research Word Cloud" />
         </span>
       </p>
       <p>
-        <label for="sn-plus" class="sidenote-toggle">⊕</label><input type="checkbox"
+        <label for="sn-plus" class="sidenote-toggle"></label><input type="checkbox"
         id="sn-plus" class="sidenote-toggle" /><span class="sidenote" style="font-size: 12pt;font-weight: bold; ">
-          Multi-Attributed-View Representation:
+          Multi-Attributed-View Representation [3]:
           <img id="wordcloud" src="images/multiview-framework.png" alt="Research Word Cloud" />
         </span>
       </p>
@@ -195,6 +204,7 @@
       <pre><code class="language-html">Awesome Deep Graph Anomaly Detection</code> <a href="https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection" target="_blank" >[REPOSITORY]</a></pre>
 
       <!-- My Awards -->
+      <p id="award"></p>
       <h2 id="class-based-elements"><font color="borwn">Awards</font></h2>
       <pre id="educationtable"><table>
         <thead>
@@ -270,7 +280,7 @@
           1. Use the Latex Template from 
           <a
             href="https://github.com/vincentdoerig/latex-css" target="_blank">https://github.com/vincentdoerig/latex-css</a>.
-          <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a>
+          <a href="index.html" title="Jump back to footnote 1 in the text.">↩</a>
         </p>
         <p id="fn2">
           2. Feel free to contact me @my email
