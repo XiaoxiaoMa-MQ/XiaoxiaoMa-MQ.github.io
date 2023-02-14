@@ -675,19 +675,19 @@ h6 {
 .left_column {
   float: left;
   width: 25%;
-  height: 25rem
+  height: 19rem
 }
 
 .main_column {
   float: right;
   width: 70%;
-  height: 10rem;
+  height: 19rem;
 }
 
 #xiaoxiao-img {
   align-items: center;
-  width: 200%;
-  height: auto;
+  width: 12rem;
+  height: 18rem;
 }
 /* 180 270 */
 footer {

@@ -22,6 +22,15 @@
   <meta property="og:description"
     content="A minimal, almost class-less CSS library to write modern websites that look like LaTeX documents." />
   <meta property="og:type" content="website" />
+  <script type="text/javascript">
+      var calc = function(){
+        var docElement = document.documentElement;
+        var clientWidthValue = document.clientWidthValue>750?750:docElement.clientWidth;
+        docElement.style.fontSize = 3.2*(clientWidthValue/375) + 'px';
+      }
+    calc();
+    window.addEventListener('resize', calc);
+  </script>
 </head>
 <body id="top" >
   <!-- class="latex-dark" -->
