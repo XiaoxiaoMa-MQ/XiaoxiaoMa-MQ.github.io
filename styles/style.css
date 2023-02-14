@@ -519,8 +519,9 @@ input.sidenote-toggle {
   display: none;
 }
 
+/* 
 @media (max-width: 1050px) {
-  /* label.sidenote-toggle:not(.sidenote-number) {
+  label.sidenote-toggle:not(.sidenote-number) {
     display: inline;
   }
 
@@ -538,11 +539,11 @@ input.sidenote-toggle {
   }
 
   /* tweak indentation of sidenote inside a blockquote */
-  blockquote .sidenote {
+  /* blockquote .sidenote {
     margin-right: -25vw;
     width: 16vw;
   } */
-}
+} */
 
 /* Make footnote text smaller and left align it (looks bad with long URLs) */
 .footnotes p {
