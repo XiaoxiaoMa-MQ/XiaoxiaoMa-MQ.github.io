@@ -105,7 +105,7 @@
   --body-bg-color: hsl(210, 20%, 98%);
   --link-visited: hsl(0, 100%, 33%);
   --link-focus-outline: hsl(220, 90%, 52%);
-  --pre-bg-color: hsl(210, 28%, 93%);
+  --pre-bg-color: #f0f0f0;
   --kbd-bg-color: hsl(210, 5%, 100%);
   --kbd-border-color: hsl(210, 5%, 70%);
   --table-border-color: black;
@@ -543,7 +543,7 @@ input.sidenote-toggle {
     margin-right: -25vw;
     width: 16vw;
   } */
-} */
+ 
 
 /* Make footnote text smaller and left align it (looks bad with long URLs) */
 .footnotes p {
