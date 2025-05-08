@@ -9,8 +9,4 @@ paperurl: 'https://ieeexplore.ieee.org/abstract/document/7167444'
 citation: ' '
 ---
 
-<a href='https://ieeexplore.ieee.org/abstract/document/7167444'>Download paper here</a>
-
-Authors: Richard O. Sinnott, Jun Han, William Hu, Xiaoxiao Ma, Kuai Yu
-
-Recommended citation:  
+Collection of clinical information can be a fraught and intimidating process in hospital environments, especially for children with neurological conditions. Gaming and mobile technology offer many potential advantages for data collection where clinically important data can be collected as a side effect of playing games. Niemann-Pick Disease (NPD) is one example of a condition where gaming technology has the potential to greatly help patients and doctors alike. NPD is a severe, often fatal neurological condition where extensive physiological and cognitive information needs to be collected by doctors, typically in hospital environments. To help healthcare providers collect far richer information on NPD patients and reduce the burden/stress of patients and their families alike, a suite of targeted mobile games was developed to capture specific clinical information on NPD patients. These were evaluated with NPD patients and the feedback received was used to tailor the games accordingly. Personalised clinical information obtained through game playing was recorded, analysed and visualised through a flexible and extensible Cloud-based solution including capabilities for tracking patients longitudinally. This work has been directly aligned with the International Niemann-Pick Disease Registry. We suggest that this approach offers the potential for improved processes for data collection and importantly, a less stressful and more cost effective approach for collecting clinical information from and for patients.
