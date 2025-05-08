@@ -2,7 +2,7 @@
 title: "Rethinking Unsupervised Graph Anomaly Detection with Deep Learning: Residuals and Objectives"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/salad
 excerpt: 'Authors: *Xiaoxiao Ma, *Fanzhen Liu, Jia Wu, Jian Yang, Quan Z. Sheng'
 date: 2024
 venue: 'IEEE Transactions on Knowledge and Data Engineering (TKDE, CORE ranked A*, CCF A)'
