@@ -22,7 +22,7 @@ repository               : "XiaoxiaoMa-MQ/XiaoxiaoMa-MQ.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/xiaoxiao.png"
+  avatar           : "xiaoxiao.png"
   name             : "Xiaoxiao Ma"
   pronouns         : # example: "she/her"  
   bio              : "I am a Senior Applied Scientist at Oracle OAC and a third year Ph.D. candidate at Macquarie University. My principal supervisor is Prof. Jian Yang and my associate supervisor is A. Prof. Jia Wu. My research mainly focuses on deep learning, graph mining, anomaly detection and deep generative models. I got my Master of Information Technology degree from the University of Melbourne and Master of Research degree from Macquarie University."
@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-1270-4155"
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
