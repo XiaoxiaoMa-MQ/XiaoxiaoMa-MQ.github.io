@@ -1,6 +1,7 @@
 ---
 title: "Application of Mobile Games to Support Clinical Data Collection for Patients with Niemann-Pick Disease"
 collection: publications
+category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-1
 excerpt: 'Authors: Richard O. Sinnott, Jun Han, William Hu, Xiaoxiao Ma, Kuai Yu'
 date: 2015-10-01
