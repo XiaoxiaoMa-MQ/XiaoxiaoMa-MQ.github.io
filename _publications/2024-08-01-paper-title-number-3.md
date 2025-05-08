@@ -1,0 +1,11 @@
+---
+title: "Graph Anomaly Detection with Few Labels: A Data-Centric Approach"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-08-01-paper-title-number-3
+excerpt: 'Authors: Xiaoxiao Ma, Ruikun Li, Fanzhen Liu, Kaize Ding, Jian Yang, Jia Wu'
+date: 2024-08-01
+venue: 'ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD)'
+paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3637528.3671929'
+---
+Anomalous node detection in a static graph faces significant challenges due to the rarity of anomalies and the substantial cost of labeling their deviant structure and attribute patterns. These challenges give rise to data-centric problems, including extremely imbalanced data distributions and intricate graph learning, which significantly impede machine learning and deep learning methods from discerning the patterns of graph anomalies with few labels. While these issues remain crucial, much of the current research focuses on addressing the induced technical challenges, treating the shortage of labeled data as a given. Distinct from previous efforts, this work focuses on tackling the data-centric problems by generating auxiliary training nodes that conform to the original graph topology and attribute distribution. We categorize this approach as data-centric, aiming to enhance existing anomaly detectors by training them on our synthetic data. However, the methods for generating nodes and the effectiveness of utilizing synthetic data for graph anomaly detection remain unexplored in the realm. To answer these questions, we thoroughly investigate the denoising diffusion model. Drawing from our observations on the diffusion process, we illuminate the shifts in graph energy distribution and establish two principles for designing denoising neural networks tailored to graph anomaly generation. From the insights, we propose a diffusion-based graph generation method to synthesize training nodes, which can be promptly integrated to work with existing anomaly detectors. The empirical results on eight widely-used datasets demonstrate our generated data can effectively enhance the nine state-of-the-art graph detectors' performance.

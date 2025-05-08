@@ -2,7 +2,7 @@
 title: "On Fake News Detection with LLM Enhanced Semantics Mining"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-09-17-less4fd-number-2
+permalink: /publication/2024-09-17-paper-title-number-2
 excerpt: 'Authors: Xiaoxiao Ma, Yuchen Zhang, Kaize Ding, Jian Yang, Jia Wu, Hao Fan.'
 date: 2024-09-17
 venue: 'EMNLP (main track) 2024'
