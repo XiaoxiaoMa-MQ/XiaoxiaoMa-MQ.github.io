@@ -1,6 +1,7 @@
 ---
 title: "Divide and Denoise: Empowering Simple Models for Robust Semi-Supervised Node Classification against Label Noise"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-08-01-paper-title-number-10
 excerpt: 'Authors: *Kaize Ding, *Xiaoxiao Ma, Yixin Liu, Shirui Pan'
 date: 2024-08-01

@@ -1,6 +1,7 @@
 ---
 title: "Deep Multi-Attributed-View Graph Representation Learning"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-03-01-paper-title-number-2
 excerpt: 'Authors: Xiaoxiao Ma, Shan Xue, Jia Wu, Jian Yang, Cecile Paris, Surya Nepal, and Quan Z. Sheng'
 date: 2022-03-01

@@ -1,6 +1,7 @@
 ---
 title: "Heterogeneous Subgraph Transformer for Fake News Detection"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-11-01-paper-title-number-8
 excerpt: 'Authors: *Yuchen Zhang, *Xiaoxiao Ma, Jia Wu, Jian Yang, Hao Fan'
 date: 2023-11-01

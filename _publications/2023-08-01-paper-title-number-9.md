@@ -1,6 +1,7 @@
 ---
 title: "Towards Graph-level Anomaly Detection via Deep Evolutionary Mapping"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-08-01-paper-title-number-9
 excerpt: 'Authors: Xiaoxiao Ma, Jia Wu, Jian Yang, Quan Z. Sheng'
 date: 2023-08-01

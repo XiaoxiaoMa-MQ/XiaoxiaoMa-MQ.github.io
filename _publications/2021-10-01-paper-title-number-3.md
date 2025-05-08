@@ -1,6 +1,7 @@
 ---
 title: "A Comprehensive Survey on Graph Anomaly Detection with Deep Learning"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-10-01-paper-title-number-3
 excerpt: 'Authors: Xiaoxiao Ma, Jia Wu, Shan Xue, Jian Yang, Chuan Zhou, Quan Z. Sheng, Hui Xiong, Leman Akoglu'
 date: 2021-10-01

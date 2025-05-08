@@ -1,6 +1,7 @@
 ---
 title: "Knowledge Graph Enhanced Heterogeneous Graph Neural Network for Fake News Detection"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-paper-title-number-5
 excerpt: 'Authors: *Bingbing Xie, *Xiaoxiao Ma, Jia Wu, Jian Yang, Hao Fan'
 date: 2023-01-01

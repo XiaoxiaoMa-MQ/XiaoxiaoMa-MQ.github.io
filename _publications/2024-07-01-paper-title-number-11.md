@@ -1,6 +1,7 @@
 ---
 title: "Graph Anomaly Detection with Few Labels: A Data-Centric Approach"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-07-01-paper-title-number-11
 excerpt: 'Authors: *Xiaoxiao Ma, Ruikun Li, Fanzhen Liu, Kaize Ding, Jian Yang, Jia Wu'
 date: 2024-07-01
