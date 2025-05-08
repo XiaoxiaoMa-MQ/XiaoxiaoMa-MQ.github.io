@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "My CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -51,7 +51,7 @@ Work experience
 
 Hosted Projects
 ======
-* Awesome Deep Graph Anomaly Detection [https://xiaoxiaoma-mq.github.io/Awesome-Deep-Graph-Anomaly-Detection/]
+* Awesome Deep Graph Anomaly Detection [REPO](https://xiaoxiaoma-mq.github.io/Awesome-Deep-Graph-Anomaly-Detection/)
 
 Publications
 ======
