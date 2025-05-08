@@ -11,35 +11,47 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+* Doctor of Philosophy, Computing, Macquarie University, 2021.10 - Now.
+* Master of Research, Computing, Macquarie University, 2020.01 - 2021.02.
+* Master of Information Technology, Computing, University of Melbourne, 2014.02 - 2014.12.
+* Bachelor of Software Engineering, Software Engineering, Tianjin University, 2006.09-2010.07.
+  
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Oracle
+  * Senior Applied Scientist
+  * LLM, Agents, NL2SQL, Agentic AI Assistants
+  * Time: 2024.12 - Now.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Amazon
+  * Applied Scientist Intern
+  * Recommender System, Sequential Recommendation
+  * Time: 2024.04 - 2024.10
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* Macquarie University, Data Horizons Research Centre
+  * Research Assistant
+  * Time: 2023.04 - 2023.12
+
+* GenieUS Genomics
+  * Research ARP.Intern
+  * Genomic Pattern Recognition
+  * Time: 2023.06 - 2023.10
+
+* Data Centre of Ningxia
+  * Senior Staff Member
+  * Time: 2018.10 - 2019.12
+
+* Information and Data Management Center of HRSS Ningxia
+  * Senior Staff Member	
+  * Time: 2015.05 - 2018.10
+
+* Ericsson (China) Communications Co.Ltd.
+  * Integration Engineer
+  * Time: 2010.07 - 2013.09
+
+Hosted Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Awesome Deep Graph Anomaly Detection [https://xiaoxiaoma-mq.github.io/Awesome-Deep-Graph-Anomaly-Detection/]
 
 Publications
 ======
@@ -47,18 +59,23 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+
+Service and Research Activities
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Journal Reviewer
+  * IEEE Transactions on Pattern Analysis and Machine Intelligence
+  * IEEE Transactions on Knowledge and Data Engineering
+  * ACM Transactions on Knowledge Discovery from Data
+  * World Wide Web Journal
+  * IEEE Transactions on Emerging Topics in Computing
+  * IEEE Transactions on Neural Computing
+  * Journal of Information Science
+* Conference Reviewer
+  * The ACM SIGKDD conference on Knowledge Discovery and Data Mining (KDD) 2025
+  * The ACM SIGKDD conference on Knowledge Discovery and Data Mining (KDD) 2024
+  * The IEEE International Conference on Data Mining (ICDM) 2021
+  * The ACM Conference on Web Search and Data Mining (WSDM) 2021
+  * The Conference on Information and Knowledge Management (CIKM) 2021
+  * The IEEE International Conference on Big Knowledge (ICBK) 2021
+  * International Joint Conference on Neural Networks (IJCNN) 2021, 2022
+  * The ACM SIGKDD conference on Knowledge Discovery and Data Mining (KDD) 2021
