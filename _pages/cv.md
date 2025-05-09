@@ -18,12 +18,12 @@ Education
   
 Work experience
 ======
-* Oracle
+* Oracle, Australia
   * Senior Applied Scientist
   * LLM, Agents, NL2SQL, Agentic AI Assistants
   * Time: 2024.12 - Now.
 
-* Amazon
+* Amazon, International Machine Learning
   * Applied Scientist Intern
   * Recommender System, Sequential Recommendation
   * Time: 2024.04 - 2024.10
