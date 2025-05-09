@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Applied Scientist at Oracle OAC and a third year Ph.D. candidate at Macquarie University. My principal supervisor is Prof. [Jian Yang](https://researchers.mq.edu.au/en/persons/jian-yang) and my associate supervisor is A. Prof. [Jia Wu](http://web.science.mq.edu.au/~jiawu/). I am focusing on research in all areas in AI, including LLMs, deep learning, graph mining, and deep generative models.
+I am a Senior Applied Scientist at Oracle OAC and a third year Ph.D. candidate at Macquarie University. My principal supervisor is Prof. [Jian Yang](https://researchers.mq.edu.au/en/persons/jian-yang) and my associate supervisor is A. Prof. [Jia Wu](http://web.science.mq.edu.au/~jiawu/). I am interested in all areas in AI, including LLMs, deep learning, graph mining, and deep generative models.
 
 Working Areas
 ======
