@@ -11,12 +11,16 @@ I am a Senior Applied Scientist at Oracle OAC and a third year Ph.D. candidate a
 
 Working Areas
 ======
-I have 9+ years working experience in IT industry and I am working at Oracle Australia as a Senior Applied Scientist. My works now focus on LLM, LLM-Agents, Deep Generative Models, and Reinforcement Learning, while I am still keeping track of the recent advancement in Graph Learning and Recommender Systems.
+With over 9 years of experience in the IT industry, I am currently working as a Senior Applied Scientist at Oracle Australia. My current work focuses on Large Language Models (LLMs), LLM-powered Agents, Deep Generative Models, and Reinforcement Learning. I continue to stay engaged with the latest advancements in Graph Learning and Recommender Systems.
+
+Blog Posts
+======
+I regularly share insights through technical blogs—feel free to follow along and share your feedback or suggestions for improvement.
 
 Collaboration Opportunities
 ======
-I am keen to collaborate with researchers, who also have strong inspirations in Machine Learning, Deep Learning, Large Language Models and Agents.
+I'm keen to collaborate with researchers who share strong enthusiasm for Machine Learning, Deep Learning, Large Language Models, and Autonomous Agents. I'm particularly interested in pushing the boundaries of these technologies through innovative research and practical applications.
 
 Special Thanks
 ------
-Thanks to the Academic Pages Template at [TEMPLATE](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki).
+Thanks to the open-source Academic Pages Template at [here](https://academicpages.github.io/markdown/) and the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki).
