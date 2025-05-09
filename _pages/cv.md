@@ -49,6 +49,19 @@ Work experience
   * Integration Engineer
   * Time: 2010.07 - 2013.09
 
+Awards
+======
+* Executive Dean's Commendation for Academic Excellence in Year 2 Master of Research
+  * 2021
+* The Third Place (Silver Modal) in the Second Network Hacking Competition in Ningxia
+  * 2018
+* Award of Encouragement in the First Network Hacking Competition in Ningxia
+  * 2017
+* 2016’s Best Staff in Human Resources and Social Security Department of Ningxia Hui Autonomous Region
+  * 2016
+* Bronze Model in the Tianjin Metropolitan Collegiate Programming Contest
+  * 2007
+
 Hosted Projects
 ======
 * Awesome Deep Graph Anomaly Detection [REPO](https://xiaoxiaoma-mq.github.io/Awesome-Deep-Graph-Anomaly-Detection/)

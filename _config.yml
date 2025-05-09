@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Xiaoxiao Ma"
 description              : &description "I am a Senior Applied Scientist at Oracle OAC and a third year Ph.D. candidate at Macquarie University. My principal supervisor is Prof. Jian Yang and my associate supervisor is A. Prof. Jia Wu. I am focusing on research in all areas in AI, including LLMs, deep learning, graph mining, and deep generative models."
 url                      : https://xiaoxiaoma-mq.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/cv" # the subpath of your site, e.g. "/blog"
 repository               : "XiaoxiaoMa-MQ/XiaoxiaoMa-MQ.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -25,7 +25,7 @@ author:
   avatar           : "xiaoxiao.png"
   name             : "Xiaoxiao Ma"
   pronouns         : # example: "she/her"  
-  bio              : "I am a Senior Applied Scientist at Oracle OAC and a third year Ph.D. candidate at Macquarie University. My principal supervisor is Prof. Jian Yang and my associate supervisor is A. Prof. Jia Wu. I am focusing on research in all areas in AI, including LLMs, deep learning, graph mining, and deep generative models."
+  bio              : ""
   location         : "Sydney, Australia"
   employer         : "Oracle OAC"
   uri              : # URL
