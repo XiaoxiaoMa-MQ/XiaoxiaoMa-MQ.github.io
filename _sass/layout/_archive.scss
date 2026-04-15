@@ -48,6 +48,20 @@
   }
 }
 
+.archive__item-badge {
+  display: inline-block;
+  margin-right: 0.6rem;
+  padding: 0.14rem 0.5rem;
+  border-radius: 999px;
+  background: #c2410c;
+  color: #fff;
+  font-size: 0.72em;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  line-height: 1.2;
+  vertical-align: middle;
+}
+
 /* remove border*/
 .page__content {
 

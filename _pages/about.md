@@ -7,11 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Applied Scientist at Oracle OAC and a third year Ph.D. candidate at Macquarie University. My principal supervisor is Prof. [Jian Yang](https://researchers.mq.edu.au/en/persons/jian-yang) and my associate supervisor is A. Prof. [Jia Wu](http://web.science.mq.edu.au/~jiawu/). I am interested in all areas in AI, including LLMs, deep learning, graph mining, and deep generative models.
+I am a Senior Applied Scientist at Oracle with 9+ years of experience across industry and research, including work at Amazon and internships in Australia. My principal supervisor is Prof. [Jian Yang](https://researchers.mq.edu.au/en/persons/jian-yang) and my associate supervisor is A. Prof. [Jia Wu](http://web.science.mq.edu.au/~jiawu/). I will be attending my Ph.D. graduation ceremony on May 4, 2026. I am interested in all areas in AI, including LLMs, agentic systems, deep learning, graph mining, and deep generative models.
 
 Working Areas
 ======
-My current work focuses on Large Language Models (LLMs), LLM-powered Agents, Deep Generative Models, and Reinforcement Learning. I continue to stay engaged with the latest advancements in Graph Learning and Recommender Systems.
+My current work focuses on agentic AI, natural language processing, large language models, automatic prompt optimization, RAG, recommender systems, and graph-based machine learning. I continue to stay engaged with research and applied work spanning anomaly detection, deep generative models, and deep learning.
+
+Academic Milestones
+======
+* **Doctor of Philosophy in Computer Science**, Macquarie University, March 2021 - May 2026
+  * Vice-Chancellor's Commendation for Academic Excellence
+  * International Macquarie University Research Excellence Scholarship
+  * Research topic: Deep Learning for Graph Anomaly Detection
+
+* **Master of Research**, Macquarie University, January 2020 - February 2021
+  * International Macquarie University Research Excellence Scholarship
+  * Executive Dean's Commendation for Academic Excellence in Year 2 Master of Research
 
 Blog Posts
 ======
@@ -19,7 +30,7 @@ I regularly share insights through technical blogs—feel free to follow along a
 
 Collaboration Opportunities
 ======
-I'm keen to collaborate with researchers who share strong enthusiasm for Machine Learning, Deep Learning, Large Language Models, and Autonomous Agents. I'm particularly interested in pushing the boundaries of these technologies through innovative research and practical applications.
+I'm keen to collaborate with researchers and practitioners working on machine learning, deep learning, large language models, autonomous agents, graph learning, and recommender systems. I'm particularly interested in research that connects strong technical foundations with practical real-world impact.
 
 Special Thanks
 ------

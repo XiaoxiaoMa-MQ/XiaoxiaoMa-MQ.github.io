@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download My Latest CV (PDF)]({{ base_path }}/files/cv.pdf)
+
 Education
 ======
 * Doctor of Philosophy, Computing, Macquarie University, 2021.10 - Now.
