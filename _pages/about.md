@@ -15,13 +15,10 @@ My current work focuses on agentic AI, natural language processing, large langua
 
 Academic Milestones
 ======
-* **Doctor of Philosophy in Computer Science**, Macquarie University, March 2021 - May 2026
+* **Doctor of Philosophy in Computer Science**
   * Vice-Chancellor's Commendation for Academic Excellence
-  * International Macquarie University Research Excellence Scholarship
-  * Research topic: Deep Learning for Graph Anomaly Detection
 
-* **Master of Research**, Macquarie University, January 2020 - February 2021
-  * International Macquarie University Research Excellence Scholarship
+* **Master of Research**
   * Executive Dean's Commendation for Academic Excellence in Year 2 Master of Research
 
 Blog Posts
