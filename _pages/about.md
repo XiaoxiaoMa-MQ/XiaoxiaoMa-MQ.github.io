@@ -15,10 +15,10 @@ My current work focuses on agentic AI, natural language processing, large langua
 
 Academic Milestones
 ======
-* **Doctor of Philosophy in Computer Science**
+* **Doctor of Philosophy in Computer Science,** Macquarie University
   * Vice-Chancellor's Commendation for Academic Excellence
 
-* **Master of Research**
+* **Master of Research,** Macquarie University
   * Executive Dean's Commendation for Academic Excellence in Year 2 Master of Research
 
 Blog Posts
