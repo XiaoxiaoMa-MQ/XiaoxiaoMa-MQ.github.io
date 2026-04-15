@@ -1,5 +1,5 @@
 ---
-title: "Divide and Denoise: Empowering Simple Models for Robust Semi-Supervised Node Classification against Label Noise"
+title: "Divide and denoise: Empowering simple models for robust graph semi-supervised learning against label noise"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-08-01-paper-title-number-10
